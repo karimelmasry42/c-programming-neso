@@ -1,2 +1,6 @@
-output/
-.DS_Store
+**/output/
+**/*.dSYM
+**/*.app
+**/*.vscodeoutput/
+**/.DS_Store
+**/.vscode/
