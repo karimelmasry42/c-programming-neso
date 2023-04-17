@@ -1,6 +1,11 @@
 
 # Practice for Neso Academy courses  
 
+**
+[Website](https://www.nesoacademy.org)  
+[YouTube Channel](https://www.youtube.com/@nesoacademy)
+**
+
 ## [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR "YouTube Playlist")  
 
 **Started:** ...  **Finished:** 17 Apr 2023
