@@ -5,6 +5,6 @@
 
 **Started:** ...  **Finished:** 17 Apr 2023
 
-## [Data Structures](https://www.youtube.com/watch?v=Vch7_YeGKH4&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&index=20 "YouTube Playlist")  
+## [Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y "YouTube Playlist")  
 
 **Started:** 17 Apr 2023  **Finished:** in progress
